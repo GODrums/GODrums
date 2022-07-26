@@ -2,19 +2,55 @@
 
 Im Armin and these are the basics:
 
-- 🔭 I'm currently working on a React / [Remix](https://remix.run/) project called [CSGOstonks](http://csgostonks.online/)
-- ⌨️ I'm maintaining my Chrome extension [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi)
+- 👯 I'm currently working on a React / [Remix](https://remix.run/) project called [CSGOstonks](http://csgostonks.online/)
+- 🔭 I'm actively maintaining my Chrome extension [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi)
+- ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow
 - 🌱 I’m currently learning Full Stack development
-- 📫 How to reach me: per Email or Discord @ Rums#9989
+- 📫 How to reach me: per email or Discord @ Rums#9989
+- ⚡ Fun fact: down to contribute to any Counter-Strike related projects
 
 <br>
 
 🔗 My developer accounts:
-<p align="left">
-<a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank" style="margin-left: 10px"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" width="40" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GODrums&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" height="35" /></a>
+&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" height="35" /></a>
+          
+
+<br>
+
+🌐 I've worked with:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="35"/>
+          
+          
+          
+          
+          
+          
 
 
 
