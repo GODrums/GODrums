@@ -12,9 +12,9 @@ Im Armin and these are the basics:
 🔗 My developer accounts:
 <p align="left">
 <a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Icon-Logo.wine.svg" width="40" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank" style="margin-left: 10px"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" width="40" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GODrums&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GODrums&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
