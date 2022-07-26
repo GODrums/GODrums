@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-Im Armin and these are the basics:
+I'm Armin and these are the basics:
 
 - 👯 I'm currently working on a React / [Remix](https://remix.run/) project called [CSGOstonks](http://csgostonks.online/)
 - 🔭 I'm actively maintaining my Chrome extension [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi)
