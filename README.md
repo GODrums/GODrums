@@ -13,6 +13,7 @@ Im Armin and these are the basics:
 
 🔗 My developer accounts:
 
+<p align="left">
 <a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" height="35" /></a>
 &nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" height="35" /></a>
@@ -22,6 +23,7 @@ Im Armin and these are the basics:
 
 🌐 I've worked with:
 
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
