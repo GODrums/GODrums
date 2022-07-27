@@ -4,7 +4,7 @@ I'm Armin and these are the basics:
 
 - 👯 I'm currently working on a React / [Remix](https://remix.run/) project called [CSGOstonks](http://csgostonks.online/)
 - 🔭 I'm actively maintaining my Chrome extension [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi)
-- ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow
+- ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow Machine Learning backend
 - 🌱 I’m currently learning Full Stack development
 - 📫 How to reach me: per email or Discord @ Rums#9989
 - ⚡ Fun fact: down to contribute to any Counter-Strike related projects
