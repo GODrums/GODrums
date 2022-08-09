@@ -10,6 +10,7 @@ I'm Armin and these are the basics:
 - ⚡ Fun fact: down to contribute to any Counter-Strike related projects
 
 <br>
+![Profile Views](https://komarev.com/ghpvc/?username=GODrums&color=blue)
 
 🔗 My developer accounts:
 
