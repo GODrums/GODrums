@@ -9,8 +9,6 @@ I'm Armin and these are the basics:
 - 📫 How to reach me: per email or Discord @ Rums#9989
 - ⚡ Fun fact: down to contribute to any Counter-Strike related projects
 
-<br>
-![](https://komarev.com/ghpvc/?username=GODrums&color=blue)
 
 🔗 My developer accounts:
 
@@ -37,21 +35,4 @@ I'm Armin and these are the basics:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="35"/>
           
-          
-          
-          
-          
-          
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=GODrums&color=blue)
