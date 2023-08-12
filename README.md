@@ -6,7 +6,7 @@ I'm Armin and these are the basics:
 - 🔭 I'm actively maintaining my Chrome extension [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi)
 - ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow Machine Learning backend
 - 🌱 In my latest job I developed a CarPlay + iOS app
-- 📫 How to reach me: per email or Discord @ rums (or Rums#9989)
+- 📫 How to reach me: per email or Discord @ rums (former Rums#9989)
 - ⚡ Fun fact: down to contribute to any Counter-Strike-related projects
 
 
