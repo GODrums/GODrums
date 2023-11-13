@@ -3,7 +3,7 @@
 I'm Armin and these are the basics:
 
 - 👯 I'm currently working on smaller Next.js projects on [Rums.dev](http://rums.dev/)
-- 🔭 I'm actively maintaining my browser extensions [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi) and [BetterFloat](https://github.com/GODrums/BetterFloat)
+- 🔭 I'm actively maintaining my browser extensions [BetterFloat](https://github.com/GODrums/BetterFloat) and [BetterEsportal](https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi) as well as the NPM package [cs-tierlist](https://www.npmjs.com/package/cs-tierlist)
 - ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow Machine Learning backend
 - 🌱 In my latest job I developed a CarPlay + iOS app
 - 📫 How to reach me: per email or Discord @ rums (former Rums#9989)
@@ -14,9 +14,9 @@ I'm Armin and these are the basics:
 <p align="left">
 <a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" height="35" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/user/18016139/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="35" /></a>
+<a href="https://www.npmjs.com/~rums" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" height="35" /></a>
 <img align="center" title="Apple developer account provided by TU Munich" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" height="35" />
-
 
 <br>
 
