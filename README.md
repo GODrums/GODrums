@@ -30,7 +30,7 @@ I'm Armin and these are the basics:
 <img align="center" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="Typescript" height="35">
 <img align="center" src="https://api.iconify.design/logos:eslint.svg?color=%23888888" title="ESLint" height="35">
 <img align="center" src="https://api.iconify.design/logos:prettier.svg?color=%23888888" title="Prettier" height="35">
-<img src="https://api.iconify.design/devicon:pnpm.svg" title="PNPM" height="35"/>
+<img align="center" src="https://api.iconify.design/devicon:pnpm.svg" title="PNPM" height="35"/>
 </div>
 
 ### 🌐 I've worked with:
