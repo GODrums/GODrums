@@ -2,9 +2,9 @@
 
 I'm Armin and these are the basics:
 
-- 👨‍💻 I'm currently working as freelance browser extension developer (MV3) 🌍
-- 🔭 In my spare time, I'm actively maintaining my extensions [BetterFloat](https://github.com/GODrums/BetterFloat) & [BetterBuff](https://github.com/GODrums/BetterBuff) as well as the NPM package [cs-tierlist](https://www.npmjs.com/package/cs-tierlist)
-- ⌨️ My bachelor thesis was a Big Data Analysis about misogyny with Tensorflow Machine Learning backend
+- 👨‍💻 I'm currently traveling as a digital nomad
+- 🔭 In my spare time, I'm actively maintaining my browser extension [BetterFloat](https://github.com/GODrums/BetterFloat) as well as the NPM package [cs-tierlist](https://www.npmjs.com/package/cs-tierlist)
+- ⌨️ Completed my Masters at the TU Munich researching the impact of gamification on next-generation developer environments
 - 🌱 My most exotic job was about developing a native CarPlay + iOS app
 - 📫 How to reach me: per email or Discord @ rums (former Rums#9989)
 - ⚡ Fun fact: down to contribute to any Counter-Strike-related projects
@@ -12,7 +12,7 @@ I'm Armin and these are the basics:
 ### 🔗 My developer accounts:
 
 <p align="left">
-<a href="https://chrome.google.com/webstore/detail/betteresportal/iklnneabdldjlpgnpccikmcgnfedlnbi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" height="35" /></a>
+<a href="https://chromewebstore.google.com/detail/bphfhlfhnohppnleaehnlfigkkccpglk?authuser=0&hl=en-GB" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" height="35" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/user/18016139/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="35" /></a>
 <a href="https://www.npmjs.com/~rums" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Armin+Stanitzok" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" height="35" /></a>
@@ -25,11 +25,10 @@ I'm Armin and these are the basics:
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 1rem;">
 <img align="center" src="./assets/plasmo.png" title="Plasmo" height="35">
 <img align="center" src="https://api.iconify.design/logos:react.svg?color=%23888888" title="React" height="35">
-<img align="center" src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" title="Aceternity UI" height="35">
-<img align="center" src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75" title="shadcn/ui" height="35">
+<img align="center" src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" title="shadcn/ui" height="35">
+<img src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg?color=%23888888" title="TailwindCSS" height="35"/>
 <img align="center" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="Typescript" height="35">
-<img align="center" src="https://api.iconify.design/logos:eslint.svg?color=%23888888" title="ESLint" height="35">
-<img align="center" src="https://api.iconify.design/logos:prettier.svg?color=%23888888" title="Prettier" height="35">
+<img align="center" src="https://biomejs.dev/img/favicon.svg" title="Biome" height="35">
 <img align="center" src="https://api.iconify.design/devicon:pnpm.svg" title="PNPM" height="35"/>
 </div>
 
